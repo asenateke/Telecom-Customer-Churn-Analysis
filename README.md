@@ -10,7 +10,7 @@ Data Details
 ---------------
 | Column   | Description  |
 | :------------:|--------------------------------------------------------------|
-|customerID | customer id |
+|customerID | Customer id |
 |gender | Client gender (male / female) |
 | SeniorCitizen | Is the client retired (1, 0) |
 | Partner | Is the client married (Yes, No) |
