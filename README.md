@@ -9,18 +9,13 @@
 Data Details
 ---------------
 | Column   | Description  |
-| :-------------:|:--------------------: |
+| :-------------------:|:--------------------------------------------------------------: |
 |customerID | customer id |
 |gender | client gender (male / female) |
-
 | SeniorCitizen | is the client retired (1, 0) |
-
 | Partner | is the client married (Yes, No) |
-
 | tenure | how many months a person has been a client of the company |
-
 | PhoneService | is the telephone service connected (Yes, No) |
-
 MultipleLines - are multiple phone lines connected (Yes, No, No phone service)
 
 InternetService - client's Internet service provider (DSL, Fiber optic, No)
