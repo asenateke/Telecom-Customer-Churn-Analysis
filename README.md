@@ -3,7 +3,7 @@
 
 * I built basic data visualizations and a multiple linear regression model using the Telecom-Users dataset.
 
-* I made Churn Analysis by using visualizations methods as well as, SVM and. KNN Algorithms.
+* I made Churn Analysis by using visualizations methods as well as, SVM and, KNN Algorithms.
 
 
 Data Details
