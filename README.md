@@ -8,7 +8,8 @@
 
 Data Details
 ---------------
-
+| Column   | Description  |
+| :-------------:|:--------------------: |
 |customerID | customer id |
 |gender | client gender (male / female) |
 
