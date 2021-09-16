@@ -3,7 +3,7 @@ I got the Telecom-Users dataset from the kaggle platform, but when I look at kag
 
 I built basic data visualizations and a multiple linear regression model using the Telecom-Users dataset.
 
-My work on Churn analysis continues.
+I made Churn Analysis by using visualizations methods as well as, SVM and. KNN Algorithms.
 
 
 Data Details
