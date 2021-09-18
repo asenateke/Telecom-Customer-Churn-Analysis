@@ -1,7 +1,7 @@
 # Telecom Customer Analysis
-* I got the Telecom-Users dataset from the kaggle platform, but when I look at kaggle, the dataset is no longer displayed.
+* I got the Telecom-Customer dataset from the kaggle platform, but when I look at kaggle, the dataset is no longer displayed.
 
-* I built basic data visualizations and a multiple linear regression model using the Telecom-Users dataset.
+* I built basic data visualizations and a multiple linear regression model using the Telecom-Customer dataset.
 
 * I made Churn Analysis by using visualizations methods as well as, SVM and, KNN Algorithms.
 
